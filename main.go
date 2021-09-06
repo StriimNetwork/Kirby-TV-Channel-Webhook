@@ -9,7 +9,7 @@ func main() {
 	url := "place webhook url here"
 
 	var json = []byte(`{
-			"content": "<@865734393570132000>",
+			"content": "<@&865734393570132000>",
 			"embeds": [
     			{
       				"title": "A new Episode of the Kirby TV Channel is available!",
